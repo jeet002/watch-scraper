@@ -39,3 +39,7 @@ This project demonstrates how to use `requests`, `BeautifulSoup`, and `pandas` t
 4. Check results:
    - HTML saved → snapdeal_watches_html.txt
    - Excel file → snapdeal_watches_under_2000.xlsx
+
+##Screenshot
+
+![image alt](https://github.com/jeet002/watch-scraper/blob/d50439311a5649528ad2c8827878da6bc4939343/Screenshot%202025-08-29%20125202.png)
