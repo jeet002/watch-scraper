@@ -32,8 +32,8 @@ This project demonstrates how to use `requests`, `BeautifulSoup`, and `pandas` t
 1. **Clone the repository** (or download the project files):  
    - git clone https://github.com/your-username/Snapdeal-Watch-Scraper.git
    - cd Snapdeal-Watch-Scraper
-2. Install required libraries:
-   - pip install requests beautifulsoup4 pandas
+2. Install dependencies from requirements.txt:
+   - pip install -r requirements.txt
 3. Run the scraper:
    - python watch_scraper.py
 4. Check results:
